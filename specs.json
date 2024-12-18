@@ -1381,6 +1381,7 @@
       "sourcePath": "media-source-respec.html"
     }
   },
+  "https://www.w3.org/TR/mediacapture-extensions/",
   "https://www.w3.org/TR/mediacapture-fromelement/",
   "https://www.w3.org/TR/mediacapture-region/",
   "https://www.w3.org/TR/mediacapture-streams/",
@@ -1793,6 +1794,7 @@
   "https://www.w3.org/TR/webmidi/",
   "https://www.w3.org/TR/webnn/",
   "https://www.w3.org/TR/webrtc-encoded-transform/",
+  "https://www.w3.org/TR/webrtc-extensions/",
   "https://www.w3.org/TR/webrtc-identity/",
   "https://www.w3.org/TR/webrtc-priority/",
   {
